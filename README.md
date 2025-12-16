@@ -2,6 +2,8 @@
 
 Autor: Augusto César da Silva Carvalho
 
+[Colab Notebook](https://colab.research.google.com/drive/19RwW69i7pKqJom7K9mDndh7PO2FrnihC?usp=sharing)
+
 ## Visão Geral
 
 Este projeto realiza uma análise exploratória e multivariada das exportações globais entre 2023 e o inicio de 2025, com foco na identificação de padrões de especialização produtiva, concentração setorial e similaridade entre países. Para isso, utiliza dados de comércio internacional organizados por categorias do Sistema Harmonizado (HS) e aplica técnicas de pré-processamento, redução de dimensionalidade e visualização.
